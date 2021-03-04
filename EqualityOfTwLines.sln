@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lineComparision", "lineComparision\lineComparision.csproj", "{28C6F537-A2FA-445A-963D-431B37EE7DC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityOfTwLines", "EqualityOfTwLines\EqualityOfTwLines.csproj", "{E2E1D33F-BCE4-49BE-8317-F97392757C1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{28C6F537-A2FA-445A-963D-431B37EE7DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28C6F537-A2FA-445A-963D-431B37EE7DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28C6F537-A2FA-445A-963D-431B37EE7DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28C6F537-A2FA-445A-963D-431B37EE7DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E1D33F-BCE4-49BE-8317-F97392757C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E1D33F-BCE4-49BE-8317-F97392757C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E1D33F-BCE4-49BE-8317-F97392757C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E1D33F-BCE4-49BE-8317-F97392757C1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2D21A9D3-BFDD-4411-890B-EACC8DF44CE2}
+		SolutionGuid = {5C118EB3-1462-4EF1-8A57-4E0C28756F43}
 	EndGlobalSection
 EndGlobal
